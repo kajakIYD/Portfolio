@@ -33,11 +33,11 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 *Skills: JavaScript, Adobe Acrobat API*
 
 ## SmartRoom web version 
-Documentation available as *.pdf* file.
+Documentation available as *.pdf* file.  
 *Skills: C, C#, PHP, Joomla*
 
 ## SmartRoom LabVIEW version
-Documentation available as *.pdf* file.
+Documentation available as *.pdf* file.  
 *Skills: LabVIEW (CLAD certificate), C*
 
 ## Projects for General Motors/Opel Manufacturing Poland
