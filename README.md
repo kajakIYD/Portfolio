@@ -13,6 +13,7 @@ Below You can see listing of a couple of projects I did during my studies at Sil
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Projects for PriceWaterhouseCoopers SDC
+<br />
 **Migration Tool SD**
 <br />
 *Skills: C#, WPF*
@@ -46,7 +47,15 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 <br />
 *Skills: Arduino, electronics*
 <br />
+**Doors station production flow improvement**
+<br />
+Documentation available as *.pdf* file.
+<br />
+*Skills: PLC, FANUC robots control* 
+<br />
 **Production flow simulation at Body Department**
+<br />
+Documentation available as *.pdf* file.
 <br />
 *Skills: Tecnomatix Plant Simulation, programming in SimTalk, bottlenecks detection, mathematical modeling*
 <br />
