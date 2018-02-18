@@ -36,7 +36,7 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 *Skills: C, C#, PHP, Joomla*
 
 ## SmartRoom LabVIEW version
-*Skills: LabVIEW (CLAD certificate)*
+*Skills: LabVIEW (CLAD certificate), C*
 
 ## Projects for General Motors/Opel Manufacturing Poland
 **Laser welding diagnostic interface**
