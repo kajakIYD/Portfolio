@@ -61,7 +61,7 @@ Documentation available as *.pdf* file.
 <br />
 **Factory layout update**
 <br />
-*Skills: AUTOCAD*
+*Skills: AutoCAD*
 
 ## Project for KAMSOFT
 **Binary state veryfication**
