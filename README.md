@@ -13,9 +13,9 @@ Below You can see listing of a couple of projects I did during my studies at Sil
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Projects for PriceWaterhouseCoopers SDC
-<br />
-**Migration Tool SD**
-<br />
+**Migration Tool SD**   
+
+
 *Skills: C#, WPF*
 <br />
 **BEFSQC**
@@ -34,8 +34,9 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 <br />
 *Skills: JavaScript, Adobe Acrobat API*
 
-## SmartRoom web version
-<br />
+## SmartRoom web version  
+
+
 *Skills: C, C#, PHP, Joomla*
 <br />
 ## SmartRoom LabVIEW version
