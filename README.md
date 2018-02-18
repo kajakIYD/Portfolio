@@ -16,8 +16,9 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 **Migration Tool SD**   
 
 
-*Skills: C#, WPF*
-<br />
+*Skills: C#, WPF*  
+
+
 **BEFSQC**
 <br />
 *Skills: C#, WPF, iTextSharp*
@@ -35,6 +36,7 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 *Skills: JavaScript, Adobe Acrobat API*
 
 ## SmartRoom web version  
+
 
 
 *Skills: C, C#, PHP, Joomla*
