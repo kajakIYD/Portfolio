@@ -14,9 +14,7 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 
 ## Projects for PriceWaterhouseCoopers SDC
 **Migration Tool SD**   
-
-*Skills: C#, WPF* 
-
+*Skills: C#, WPF*  
 **BEFSQC**
 <br />
 *Skills: C#, WPF, iTextSharp*
