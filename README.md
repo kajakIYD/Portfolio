@@ -9,6 +9,7 @@ Below You can see listing of a couple of projects I did during my studies at Sil
 * **Projects for General Motors/Opel Manufacturing Poland**
 * **Project for KAMSOFT**
 * **Project with association with Institute of Automatic Control of Silesian University of Technology**
+* **Private lessons for students: physics, mathematics, mechanics**
 
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
@@ -35,7 +36,7 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 *Skills: C, C#, PHP, Joomla*
 
 ## SmartRoom LabVIEW version
-*Skills: LabVIEW*
+*Skills: LabVIEW (CLAD certificate)*
 
 ## Projects for General Motors/Opel Manufacturing Poland
 **Laser welding diagnostic interface**
