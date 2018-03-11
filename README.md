@@ -31,6 +31,9 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 **Tickmark Calculator**
 <br />
 *Skills: JavaScript, Adobe Acrobat API*
+**GAAP Dammit**
+<br />
+*Skills: C#, WPF*
 
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
