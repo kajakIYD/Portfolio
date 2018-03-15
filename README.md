@@ -31,6 +31,7 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 **Tickmark Calculator**
 <br />
 *Skills: JavaScript, Adobe Acrobat API*
+<br />
 **GAAP Dammit**
 <br />
 *Skills: C#, WPF*
