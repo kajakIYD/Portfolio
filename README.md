@@ -2,7 +2,7 @@ Portfolio
 ========
 ## *Portfolio of my projects*
 
-Below You can see listing of a couple of projects I did during my studies at Silesian University Of Technology.
+Below You can see listing of a couple of projects I did or was involved into during my studies at Silesian University Of Technology.
 * **Projects for PriceWaterhouseCoopers SDC**
 * **SmartRoom web version**
 * **SmartRoom LabVIEW version**
