@@ -4,6 +4,8 @@ Portfolio
 
 Below You can see listing of a couple of projects I did or was involved into during my studies at Silesian University Of Technology.
 * **Projects for PriceWaterhouseCoopers SDC**
+* **Pottery Factory BeagleBone version**
+* **Pottery Factory EVK1100 + freeRTOS version**
 * **SmartRoom web version**
 * **SmartRoom LabVIEW version**
 * **Projects for General Motors/Opel Manufacturing Poland**
@@ -14,27 +16,79 @@ Below You can see listing of a couple of projects I did or was involved into dur
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Projects for PriceWaterhouseCoopers SDC
-**Migration Tool SD**   
-*Skills: C#, WPF*  
+**AIRTS**
+<br />
+Application for optimal multiworker scheduling. The most important application for PriceWaterhouseCoopers SDC. Maintenance only.
+<br />
+*Skills: C#, EntityFramework, ASP.NET*
+<br />
+**Migration Tool SD** 
+<br />
+Application used by PriceWaterhouseCoopers SDC for users files migration. Developed and maintenanced fully by myself.
+<br />
+*Skills: C#, WPF*
+<br />
+**Trackster**
+<br />
+Application used for measuring time of specified tasks of PriceWaterhouseCoopers's workers.  Development and maintenance.
+<br />
+*Skills: C#, WPF*
+<br />
 **BEFSQC**
+<br />
+Application used for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, WPF, iTextSharp*
 <br />
 **Time Tracker**
 <br />
+Application used for measuring time of specified tasks of PriceWaterhouseCoopers's workers. Older version of Trackster. Development and maintenance.
+<br />
 *Skills: C#, WPF*
 <br />
 **Tame Tiger**
 <br />
+Application used for accountancy automation. Maintenance only.
+<br />
 *Skills: C#, WPF, Selenium*
 <br />
+**Highlight tool**
+<br />
+Script used in Adobe Acrobat for accountancy automation. Development and maintenance.
+<br />
+*Skills: C#, JavaScript, Adobe Acrobat API*
+<br />
 **Tickmark Calculator**
+<br />
+Script used in Adobe Acrobat for acquiring statistics from financial statements. Development and maintenance.
+<br />
+*Skills: JavaScript, Adobe Acrobat API*
+<br />
+**Add Red Frame**
+<br />
+Script used in Adobe Acrobat for acquiring statistics from financial statements. Development and maintenance.
+<br />
+*Skills: JavaScript, Adobe Acrobat API*
+<br />
+**Remove Green Stamps**
+<br />
+Script used in Adobe Acrobat for accountancy automation. Development and maintenance.
 <br />
 *Skills: JavaScript, Adobe Acrobat API*
 <br />
 **GAAP Dammit**
 <br />
+Application used for accountancy automation. Development and maintenance.
+<br />
 *Skills: C#, WPF*
+
+## Pottery Factory BeagleBone version
+Documentation available soon as *.pdf* file. Git repository: Pottery-Factory.
+*Skills: C, C++, QtCreator, Linux, BeagleBone, *
+
+## Pottery Factory EVK1100 + freeRTOS version
+Documentation available soon as *.pdf* file. Git repository: Pottery-Factory-EVK1100 will appear soon.
+*Skills: C, C++, QtCreator, freeRTOS, electronics*
 
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
