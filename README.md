@@ -82,12 +82,14 @@ Application used for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, WPF*
 
-## Pottery Factory BeagleBone version
+## Pottery Factory BeagleBone+MSP430 version
 Documentation available soon as *.pdf* file. Git repository: Pottery-Factory.
-*Skills: C, C++, QtCreator, Linux, BeagleBone, *
+<br />
+*Skills: C, C++, QtCreator, Linux, BeagleBone, MSP430*
 
 ## Pottery Factory EVK1100 + freeRTOS version
 Documentation available soon as *.pdf* file. Git repository: Pottery-Factory-EVK1100 will appear soon.
+<br />
 *Skills: C, C++, QtCreator, freeRTOS, electronics*
 
 ## SmartRoom web version 
