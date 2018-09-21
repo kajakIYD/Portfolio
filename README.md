@@ -15,7 +15,7 @@ Below You can see listing of a couple of projects I did or was involved into dur
 
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
-## Projects for PriceWaterhouseCoopers SDC
+## Projects for PricewaterhouseCoopers SDC
 **AIRTS**
 <br />
 Application for optimal multiworker scheduling. The most important application for PriceWaterhouseCoopers SDC. Maintenance only.
