@@ -4,6 +4,7 @@ Portfolio
 
 Below You can see listing of a couple of projects I did or was involved into during my studies at Silesian University Of Technology.
 * **Projects for PriceWaterhouseCoopers SDC**
+* **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
 * **SmartRoom web version**
@@ -81,6 +82,10 @@ Script used in Adobe Acrobat for accountancy automation. Development and mainten
 Application used for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, WPF*
+
+## GameDev - RPG: GemPrisoners(Box2D + SFML)
+More details at:
+https://bitbucket.org/projektpss/gemprisoners/branches/
 
 ## Pottery Factory BeagleBone+MSP430 version
 Documentation available soon as *.pdf* file. Git repository: Pottery-Factory.
