@@ -3,9 +3,9 @@ Portfolio
 ## *Portfolio of my projects*
 
 Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
-* **GameDev - RPG: GemPrisoners(Box2D + SFML)**
-* **Commercial projects **
-* **AI projects **
+
+* **Commercial projects**
+* **AI projects**
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
