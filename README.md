@@ -81,13 +81,21 @@ Application used for accountancy automation. Development and maintenance.
 
 ## AI projects
 **"GenderClassifier"**
+<br />
 Available on GitHub.
+<br />
 **"StockPricesPrediction"**
+<br />
 Available on GitHub.
+<br />
 **"RecommendationSystem"**
+<br />
 Available on GitHub.
+<br />
 **"TwitterSentimentAnalysis"**
+<br />
 Available on GitHub.
+<br />
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
 More details at:
