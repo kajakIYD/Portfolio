@@ -3,85 +3,90 @@ Portfolio
 ## *Portfolio of my projects*
 
 Below You can see listing of a couple of projects I did or was involved into during my studies at Silesian University Of Technology.
-* **Projects for PriceWaterhouseCoopers SDC**
+* **Commercial projects **
+* **AI projects **
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
 * **SmartRoom web version**
 * **SmartRoom LabVIEW version**
-* **Projects for General Motors/Opel Manufacturing Poland**
+* **Projects for automotive**
 * **Project for KAMSOFT**
 * **Project with association with Institute of Automatic Control of Silesian University of Technology**
 * **Private lessons for students: physics, mathematics, mechanics**
 
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
-## Projects for PricewaterhouseCoopers SDC
-**AIRTS**
+## Commercial projects
+**"AuditHelper"**
 <br />
-Application for optimal multiworker scheduling. The most important application for PriceWaterhouseCoopers SDC. Maintenance only.
+Application for optimal multiworker scheduling. Maintenance only.
 <br />
 *Skills: C#, EntityFramework, ASP.NET*
 <br />
-**Migration Tool SD** 
+**"Migrating Tool SD"** 
 <br />
-Application used by PriceWaterhouseCoopers SDC for users files migration. Developed and maintenanced fully by myself.
-<br />
-*Skills: C#, WPF*
-<br />
-**Trackster**
-<br />
-Application used for measuring time of specified tasks of PriceWaterhouseCoopers's workers.  Development and maintenance.
+Application used for users files migration. Developed and maintenanced fully by myself.
 <br />
 *Skills: C#, WPF*
 <br />
-**BEFSQC**
+**"Trackingster"**
+<br />
+Application used for measuring time of specified tasks of company workers.  Development and maintenance.
+<br />
+*Skills: C#, WPF*
+<br />
+**"BEFSQC"**
 <br />
 Application used for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, WPF, iTextSharp*
 <br />
-**Time Tracker**
+**"Time Tracking"**
 <br />
-Application used for measuring time of specified tasks of PriceWaterhouseCoopers's workers. Older version of Trackster. Development and maintenance.
+Application used for measuring time of specified tasks of company workers. Older version of Trackster. Development and maintenance.
 <br />
 *Skills: C#, WPF*
 <br />
-**Tame Tiger**
+**"Tamee Tiger"**
 <br />
 Application used for accountancy automation. Maintenance only.
 <br />
 *Skills: C#, WPF, Selenium*
 <br />
-**Highlight tool**
+**"Highlight tool"**
 <br />
 Script used in Adobe Acrobat for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, JavaScript, Adobe Acrobat API*
 <br />
-**Tickmark Calculator**
+**"Tickmark Calculator"**
 <br />
 Script used in Adobe Acrobat for acquiring statistics from financial statements. Development and maintenance.
 <br />
 *Skills: JavaScript, Adobe Acrobat API*
 <br />
-**Add Red Frame**
-<br />
-Script used in Adobe Acrobat for acquiring statistics from financial statements. Development and maintenance.
-<br />
-*Skills: JavaScript, Adobe Acrobat API*
-<br />
-**Remove Green Stamps**
+**"Remove Green Stamps"**
 <br />
 Script used in Adobe Acrobat for accountancy automation. Development and maintenance.
 <br />
 *Skills: JavaScript, Adobe Acrobat API*
 <br />
-**GAAP Dammit**
+**"Gaap Dammit"**
 <br />
 Application used for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, WPF*
+
+## AI projects
+**"GenderClassifier"**
+Available on GitHub.
+**"StockPricesPrediction"**
+Available on GitHub.
+**"RecommendationSystem"**
+Available on GitHub.
+**"TwitterSentimentAnalysis"**
+Available on GitHub.
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
 More details at:
@@ -104,7 +109,7 @@ Documentation available as *.pdf* file.
 Documentation available as *.pdf* file.  
 *Skills: LabVIEW (CLAD certificate), C*
 
-## Projects for General Motors/Opel Manufacturing Poland
+## Projects for automotive
 **Laser welding diagnostic interface**
 <br />
 *Skills: Arduino, electronics*
@@ -139,5 +144,5 @@ Documentation available as *.pdf* file.
 ## Project with association with Institute of Automatic Control of Silesian University of Technology
 **Brain tumour population modeling**
 <br />
-*Skills: MATLAB, mathematical modeling*
+*Skills: MATLAB, Python, Deep learning, mathematical modeling*
 <br />
