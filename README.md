@@ -93,7 +93,7 @@ Documentation available soon as *.pdf* file. Git repository: Pottery-Factory.
 *Skills: C, C++, QtCreator, Linux, BeagleBone, MSP430*
 
 ## Pottery Factory EVK1100 + freeRTOS version
-Documentation available soon as *.pdf* file. Git repository: https://github.com/kreeaq/avr_RTOS
+Documentation available as *.pdf* file. Git repository: https://github.com/kreeaq/avr_RTOS
 *Skills: C, C++, QtCreator, freeRTOS, electronics*
 
 ## SmartRoom web version 
