@@ -2,7 +2,7 @@ Portfolio
 ========
 ## *Portfolio of my projects*
 
-Below You can see listing of a couple of projects I did or was involved into during my studies at Silesian University Of Technology.
+Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
 * **Commercial projects **
 * **AI projects **
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
