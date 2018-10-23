@@ -6,8 +6,8 @@ Below You can see listing of a couple of projects I did by myself or was involve
 
 * **Commercial projects**
 * **AI projects**
-  * **Indented item**
-  * **Indented item**
+  * **IT projects**
+  * **Projects for automotive**
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
