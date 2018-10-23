@@ -9,10 +9,10 @@ Below You can see listing of a couple of projects I did by myself or was involve
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
+* **Expert System**
 * **SmartRoom web version**
 * **SmartRoom LabVIEW version**
 * **Projects for automotive**
-* **Project for KAMSOFT**
 * **Project with association with Institute of Automatic Control of Silesian University of Technology**
 * **Private lessons for students: physics, mathematics, mechanics**
 
@@ -36,6 +36,12 @@ Application used for users files migration. Developed and maintenanced fully by 
 Application used for measuring time of specified tasks of company workers.  Development and maintenance.
 <br />
 *Skills: C#, WPF*
+<br />
+**Binary state veryfication**
+<br />
+.dll created for checking if .exe and other .dll files created by KAMSOFT are obfuscated and if binaries was created using .NET technology. I have created that .dll as a part of more complex project in cooperation with my colleague.
+<br />
+*Skills: C#*
 <br />
 **"BEFSQC"**
 <br />
@@ -110,6 +116,11 @@ Documentation available soon as *.pdf* file. Git repository: Pottery-Factory.
 Documentation available as *.pdf* file. Git repository: https://github.com/kreeaq/avr_RTOS
 *Skills: C, C++, QtCreator, freeRTOS, electronics*
 
+## Expert System
+Git repository: https://github.com/kreeaq/Expert-System
+*Skills: C#, WPF*
+
+
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
 *Skills: C, C#, PHP, Joomla*
@@ -142,13 +153,6 @@ Documentation available as *.pdf* file.
 **Factory layout update**
 <br />
 *Skills: AutoCAD*
-
-## Project for KAMSOFT
-**Binary state veryfication**
-<br />
-.dll created for checking if .exe and other .dll files created by KAMSOFT are obfuscated and if binaries was created using .NET technology. I have created that .dll as a part of more complex project in cooperation with my colleague.
-<br />
-*Skills: C#*
 
 ## Project with association with Institute of Automatic Control of Silesian University of Technology
 **Brain tumour population modeling**
