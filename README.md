@@ -4,7 +4,7 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
 
-* **Commercial projects**
+* [asdasd] **Commercial projects**
 * **AI projects**
   * **IT projects**
   * **Projects for automotive**
