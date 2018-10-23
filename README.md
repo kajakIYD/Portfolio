@@ -19,6 +19,7 @@ Below You can see listing of a couple of projects I did by myself or was involve
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Commercial projects
+### IT projects
 **"AuditHelper"**
 <br />
 Application for optimal multiworker scheduling. Maintenance only.
@@ -85,6 +86,31 @@ Application used for accountancy automation. Development and maintenance.
 <br />
 *Skills: C#, WPF*
 
+### Projects for automotive
+**Laser welding diagnostic interface**
+<br />
+*Skills: Arduino, electronics*
+<br />
+**Doors station production flow improvement**
+<br />
+Documentation available as *.pdf* file.
+<br />
+*Skills: PLC, FANUC robots control* 
+<br />
+**Production flow simulation at Body Department**
+<br />
+Documentation available as *.pdf* file.
+<br />
+*Skills: Tecnomatix Plant Simulation, programming in SimTalk, bottlenecks detection, mathematical modeling*
+<br />
+**SharePoint programming and administration**
+<br />
+*Skills: SharePoint Designer, workflows programming*
+<br />
+**Factory layout update**
+<br />
+*Skills: AutoCAD*
+
 ## AI projects
 **"GenderClassifier"**
 <br />
@@ -128,31 +154,6 @@ Documentation available as *.pdf* file.
 ## SmartRoom LabVIEW version
 Documentation available as *.pdf* file.  
 *Skills: LabVIEW (CLAD certificate), C*
-
-## Projects for automotive
-**Laser welding diagnostic interface**
-<br />
-*Skills: Arduino, electronics*
-<br />
-**Doors station production flow improvement**
-<br />
-Documentation available as *.pdf* file.
-<br />
-*Skills: PLC, FANUC robots control* 
-<br />
-**Production flow simulation at Body Department**
-<br />
-Documentation available as *.pdf* file.
-<br />
-*Skills: Tecnomatix Plant Simulation, programming in SimTalk, bottlenecks detection, mathematical modeling*
-<br />
-**SharePoint programming and administration**
-<br />
-*Skills: SharePoint Designer, workflows programming*
-<br />
-**Factory layout update**
-<br />
-*Skills: AutoCAD*
 
 ## Project with association with Institute of Automatic Control of Silesian University of Technology
 **Brain tumour population modeling**
