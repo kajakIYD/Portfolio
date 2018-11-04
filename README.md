@@ -130,6 +130,10 @@ Available on GitHub.
 <br />
 Available on GitHub.
 <br />
+**"Grouping-Algorithms"**
+<br />
+Available on GitHub.
+<br />
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
 More details at:
