@@ -134,6 +134,10 @@ Available on GitHub.
 <br />
 Available on GitHub.
 <br />
+**"Association-Rules"**
+<br />
+Available on GitHub.
+<br />
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
 More details at:
