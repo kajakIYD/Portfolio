@@ -12,6 +12,7 @@ Below You can see listing of a couple of projects I did by myself or was involve
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
 * **Expert System**
+* **Speech Template Recognition System**
 * **SmartRoom web version**
 * **SmartRoom LabVIEW version**
 * **Projects for automotive**
@@ -154,8 +155,11 @@ Documentation available as *.pdf* file. Git repository: https://github.com/kreea
 
 ## Expert System
 Git repository: https://github.com/kreeaq/Expert-System
-*Skills: C#, WPF*
+*Skills: C#, WPF, Horn clauses*
 
+## Speech Template Recognition System
+Git repository: soon
+*Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning*
 
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
