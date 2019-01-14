@@ -164,12 +164,12 @@ Documentation available as *.pdf* file. Git repository: https://github.com/kreea
 *Skills: C, C++, QtCreator, freeRTOS, electronics*
 
 ## Expert System
-Git repository: https://github.com/kreeaq/Expert-System
+Git repository: https://github.com/kreeaq/Expert-System <br />
 *Skills: C#, WPF, Horn clauses*
 
 ## Speech Template Recognition System
 Git repository: Speech-Template-Recognition-System <br />
-*Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning*
+*Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
 
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
