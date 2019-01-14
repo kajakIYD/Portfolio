@@ -27,7 +27,7 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 <br />
 The biggest project I have been involved into. My main responsibilities are:
   * Development of highly efficient and stable algorithms for image processing.
-  * A little bit of unit testing and documentation writing - mainly for algorithms I have developed. <br>
+  * A little bit of unit testing and documentation writing - mainly for algorithms I have developed. <br />
 Example algorithms I have already developed are: ImageProjection::Median, JoinImages, SplitSegment.
 <br />
 *Skills: C++, GTest*
