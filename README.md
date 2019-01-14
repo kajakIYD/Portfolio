@@ -168,7 +168,7 @@ Git repository: https://github.com/kreeaq/Expert-System
 *Skills: C#, WPF, Horn clauses*
 
 ## Speech Template Recognition System
-Git repository: Speech-Template-Recognition-System
+Git repository: Speech-Template-Recognition-System <br />
 *Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning*
 
 ## SmartRoom web version 
@@ -182,5 +182,5 @@ Documentation available as *.pdf* file.
 ## Project with association with Institute of Automatic Control of Silesian University of Technology
 **Brain tumour population modeling**
 <br />
-*Skills: MATLAB, Python, Deep learning, mathematical modeling*
+*Skills: Python, Deep learning (Autoencoders), Machine Learning, MATLAB, mathematical modeling*
 <br />
