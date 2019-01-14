@@ -168,7 +168,7 @@ Git repository: https://github.com/kreeaq/Expert-System
 *Skills: C#, WPF, Horn clauses*
 
 ## Speech Template Recognition System
-Git repository: soon
+Git repository: Speech-Template-Recognition-System
 *Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning*
 
 ## SmartRoom web version 
