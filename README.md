@@ -151,6 +151,7 @@ Available on GitHub. https://github.com/kajakIYD/Association-Rules
 <br />
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
+Project developed with @kreeaq and @PiotrBatko
 More details at:
 https://bitbucket.org/projektpss/gemprisoners/branches/
 
