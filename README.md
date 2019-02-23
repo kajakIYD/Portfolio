@@ -127,27 +127,27 @@ Documentation available as *.pdf* file.
 ## AI projects
 **"GenderClassifier"**
 <br />
-Available on GitHub.
+Available on GitHub. https://github.com/kajakIYD/GenderClassifier
 <br />
 **"StockPricesPrediction"**
 <br />
-Available on GitHub.
+Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
 <br />
 **"RecommendationSystem"**
 <br />
-Available on GitHub.
+Available on GitHub. https://github.com/kajakIYD/Recommendation-System
 <br />
 **"TwitterSentimentAnalysis"**
 <br />
-Available on GitHub.
+Available on GitHub. Work in progress.
 <br />
 **"Grouping-Algorithms"**
 <br />
-Available on GitHub.
+Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
 <br />
 **"Association-Rules"**
 <br />
-Available on GitHub.
+Available on GitHub. https://github.com/kajakIYD/Association-Rules
 <br />
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
