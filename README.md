@@ -125,6 +125,10 @@ Documentation available as *.pdf* file.
 *Skills: AutoCAD*
 
 ## AI projects
+**SPAM or HAM?**
+<br />
+Available on GitHub. https://github.com/kajakIYD/SPAM-or-HAM
+<br />
 **"GenderClassifier"**
 <br />
 Available on GitHub. https://github.com/kajakIYD/GenderClassifier
