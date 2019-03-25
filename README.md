@@ -174,7 +174,7 @@ Git repository: https://github.com/kreeaq/Expert-System <br />
 
 ## Speech Template Recognition System
 Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
-*Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
+*Skills: Python, C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
 
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
