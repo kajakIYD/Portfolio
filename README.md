@@ -135,6 +135,11 @@ https://github.com/kajakIYD/AI-Classification
 Is it worth to buy Apple stock right now?
 Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
 <br />
+**System-Identification-ANN**
+<br />
+My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
+https://github.com/kajakIYD/system-identification-ann
+<br />
 **SPAM or HAM?**
 <br />
 Famous kaggle mail-classification challenge.
