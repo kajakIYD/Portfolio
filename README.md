@@ -125,32 +125,44 @@ Documentation available as *.pdf* file.
 *Skills: AutoCAD*
 
 ## AI projects
+**AI classification**
+<br />
+Kaggle "Sick or well heart disease" classification challenge.
+https://github.com/kajakIYD/AI-Classification
+<br />
+**"StockPricesPrediction"**
+<br />
+Is it worth to buy Apple stock right now?
+Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
+<br />
 **SPAM or HAM?**
 <br />
+Famous kaggle mail-classification challenge.
 Available on GitHub. https://github.com/kajakIYD/SPAM-or-HAM
 <br />
 **"GenderClassifier"**
 <br />
+Classification used
 Available on GitHub. https://github.com/kajakIYD/GenderClassifier
-<br />
-**"StockPricesPrediction"**
-<br />
-Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
 <br />
 **"RecommendationSystem"**
 <br />
+Would You like "Lord Of The Rings" if You like "Troy"?
 Available on GitHub. https://github.com/kajakIYD/Recommendation-System
 <br />
 **"TwitterSentimentAnalysis"**
 <br />
+Answering the question: was the Tweet gentle or violent using Twitter and NLTK.
 Available on GitHub. Work in progress.
 <br />
 **"Grouping-Algorithms"**
 <br />
+Clusterization on students grades performed and compared in 4-ways.
 Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
 <br />
 **"Association-Rules"**
 <br />
+Software useful for supermarkets, because it indicates where to place products in shops (ex. mustard nearby sausage ;))
 Available on GitHub. https://github.com/kajakIYD/Association-Rules
 <br />
 
