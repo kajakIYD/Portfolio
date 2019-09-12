@@ -35,6 +35,7 @@ Algorithms used: RandomForestClassifier, MLP with softmax layer, DecisionTreeCla
 Because of lack of data during training and model deployment StratifiedKFold cross-validation was be performed.
 <br />
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
+<br />
 **High pressure aggregate anomaly detection**
 <br />
 Real-time analysis with the usage of measurements of several factors that described the aggregate
