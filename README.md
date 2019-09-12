@@ -27,12 +27,12 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 **Hydraulic oil-pump predictive maintenance**
 <br />
 Classification and regression algorithms used for prediction of oil-pump failure. Interestingly, distinction depending on different kind of failure was made.
- * First stage of a project was to indicate if "someting is going wrong with the pump".
- * Second stage was to distinct what kind of failure will appear.
- * The late stage was to perform multidimensional regression task and to estimate approximately when the pump will fail.
+* First stage of a project was to indicate if "someting is going wrong with the pump".
+* Second stage was to distinct what kind of failure will appear.
+* The late stage was to perform multidimensional regression task and to estimate approximately when the pump will fail.
+
 Algorithms used: RandomForestClassifier, MLP with softmax layer, DecisionTreeClassifier, GaussianNB, SGDClassifier
 Because of lack of data during training and model deployment StratifiedKFold cross-validation was be performed.
-<br />
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
 **High pressure aggregate anomaly detection**
 <br />
