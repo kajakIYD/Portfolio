@@ -33,6 +33,7 @@ Classification and regression algorithms used for prediction of oil-pump failure
 
 Algorithms used: RandomForestClassifier, MLP with softmax layer, DecisionTreeClassifier, GaussianNB, SGDClassifier
 Because of lack of data during training and model deployment StratifiedKFold cross-validation was be performed.
+<br />
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
 **High pressure aggregate anomaly detection**
 <br />
@@ -40,7 +41,6 @@ Real-time analysis with the usage of measurements of several factors that descri
 <br />
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning*
 <br />
-
 ### IT projects
 **"Adaptive Machine Vision"**
 <br />
