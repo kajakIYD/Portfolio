@@ -4,10 +4,11 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
 
-* **Commercial projects**  
+* **Commercial projects**
+  * **AI projects**
   * **IT projects**
   * **Projects for automotive**
-* **AI projects**
+* **AI projects - hobby**
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
@@ -22,6 +23,24 @@ Below You can see listing of a couple of projects I did by myself or was involve
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Commercial projects
+### AI projects
+**Hydraulic oil-pump predictive maintenance**
+<br />
+Classification and regression algorithms used for prediction of oil-pump failure. Interestingly, distinction depending on different kind of failure was made.
+ * First stage of a project was to indicate if "someting is going wrong with the pump".
+ * Second stage was to distinct what kind of failure will appear.
+ * The late stage was to perform multidimensional regression task and to estimate approximately when the pump will fail.
+Algorithms used: RandomForestClassifier, MLP with softmax layer, DecisionTreeClassifier, GaussianNB, SGDClassifier
+Because of lack of data during training and model deployment StratifiedKFold cross-validation was be performed.
+<br />
+*Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
+**High pressure aggregate anomaly detection**
+<br />
+Real-time analysis with the usage of measurements of several factors that described the aggregate
+<br />
+*Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning*
+<br />
+
 ### IT projects
 **"Adaptive Machine Vision"**
 <br />
@@ -124,7 +143,7 @@ Documentation available as *.pdf* file.
 <br />
 *Skills: AutoCAD*
 
-## AI projects
+## AI projects - hobby
 **AI classification**
 <br />
 Kaggle "Sick or well heart disease" classification challenge.
