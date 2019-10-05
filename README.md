@@ -4,10 +4,11 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
 
-* **Commercial projects**  
+* **Commercial projects**
+  * **AI projects**
   * **IT projects**
   * **Projects for automotive**
-* **AI projects**
+* **AI projects - hobby**
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
@@ -22,6 +23,26 @@ Below You can see listing of a couple of projects I did by myself or was involve
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Commercial projects
+### AI projects
+**Hydraulic oil-pump predictive maintenance**
+<br />
+Classification and regression algorithms used for prediction of oil-pump failure. Interestingly, distinction depending on different kind of failure was made.
+* First stage of a project was to indicate if "someting is going wrong with the pump".
+* Second stage was to distinct what kind of failure will appear.
+* The late stage was to perform multidimensional regression task and to estimate approximately when the pump will fail.
+
+Algorithms used: RandomForestClassifier, MLP with softmax layer, DecisionTreeClassifier, GaussianNB, SGDClassifier
+Because of lack of data during training and model deployment StratifiedKFold cross-validation was be performed.
+<br />
+*Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
+<br />
+
+**High pressure aggregate anomaly detection**
+<br />
+Real-time analysis with the usage of measurements of several factors that described the aggregate
+<br />
+*Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning*
+<br />
 ### IT projects
 **"Adaptive Machine Vision"**
 <br />
@@ -124,29 +145,50 @@ Documentation available as *.pdf* file.
 <br />
 *Skills: AutoCAD*
 
-## AI projects
-**"GenderClassifier"**
+## AI projects - hobby
+**AI classification**
 <br />
-Available on GitHub. https://github.com/kajakIYD/GenderClassifier
+Kaggle "Sick or well heart disease" classification challenge.
+https://github.com/kajakIYD/AI-Classification
 <br />
 **"StockPricesPrediction"**
 <br />
+Is it worth to buy Apple stock right now?
 Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
+<br />
+**System-Identification-ANN**
+<br />
+My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
+https://github.com/kajakIYD/system-identification-ann
+<br />
+**SPAM or HAM?**
+<br />
+Famous kaggle mail-classification challenge.
+Available on GitHub. https://github.com/kajakIYD/SPAM-or-HAM
+<br />
+**"GenderClassifier"**
+<br />
+Classification used
+Available on GitHub. https://github.com/kajakIYD/GenderClassifier
 <br />
 **"RecommendationSystem"**
 <br />
+Would You like "Lord Of The Rings" if You like "Troy"?
 Available on GitHub. https://github.com/kajakIYD/Recommendation-System
 <br />
 **"TwitterSentimentAnalysis"**
 <br />
+Answering the question: was the Tweet gentle or violent using Twitter and NLTK.
 Available on GitHub. Work in progress.
 <br />
 **"Grouping-Algorithms"**
 <br />
+Clusterization on students grades performed and compared in 4-ways.
 Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
 <br />
 **"Association-Rules"**
 <br />
+Software useful for supermarkets, because it indicates where to place products in shops (ex. mustard nearby sausage ;))
 Available on GitHub. https://github.com/kajakIYD/Association-Rules
 <br />
 
@@ -170,7 +212,7 @@ Git repository: https://github.com/kreeaq/Expert-System <br />
 
 ## Speech Template Recognition System
 Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
-*Skills: C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
+*Skills: Python, C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
 
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
