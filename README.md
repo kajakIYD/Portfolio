@@ -24,6 +24,12 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 
 ## Commercial projects
 ### AI projects
+**Events prediction**
+<br />
+Several techniques used for prediction of events that came into centralized alarm system implemented on production hall.
+<br />
+*Skills: Python, pandas, scikit-learn, Tensorflow, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
+<br />
 **Hydraulic oil-pump predictive maintenance**
 <br />
 Classification and regression algorithms used for prediction of oil-pump failure. Interestingly, distinction depending on different kind of failure was made.
