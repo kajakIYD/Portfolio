@@ -8,6 +8,9 @@ Below You can see listing of a couple of projects I did by myself or was involve
   * **AI projects**
   * **IT projects**
   * **Projects for automotive**
+* **PhD**
+  * **Topic**
+  * **Articles**
 * **AI projects - hobby**
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
@@ -51,6 +54,22 @@ Real-time analysis with the usage of measurements of several factors that descri
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning*
 <br />
 ### IT projects
+**"MOLOS IoT - real-time machines monitoring"**
+<br />
+I was a pioneer in development of contentenerized applications used for acquisition of measurements from machines. I have made several Docker-IoTEdge containers:
+  * Modbus data acquisition
+  * IoT Hub container 
+<br />
+*Skills: Python, Docker, Azure Cloud[IoTEdge, IoT Hub], Modbus, AT-Commands*
+<br />
+ **"MOLOS security - secure data transfer "**
+<br />
+Multithreaded applications used for secure data transfer and processes monitoring.
+  * Dispatcher - multithreading, stable, configurable via SSL-TCP connection (also by GUI!) process monitoring
+  * Sink - multithreading, multiclient, TCP Server, used for sending messages to PostgreSQL <br />
+<br />
+*Skills: Python, Threading, TCP-Client-Server, PostgreSQL, Azure Cloud*
+<br />
 **"Adaptive Machine Vision"**
 <br />
 The biggest project I have been involved into. My main responsibilities are:
