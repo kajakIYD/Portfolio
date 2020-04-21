@@ -58,8 +58,8 @@ Real-time analysis with the usage of measurements of several factors that descri
 <br />
 I was a pioneer in development of contentenerized applications used for acquisition of measurements from machines. I have made several Docker-IoTEdge containers:
   * Modbus data acquisition
-  * IoT Hub container 
-<br />
+  * IoT Hub container <br />
+
 *Skills: Python, Docker, Azure Cloud[IoTEdge, IoT Hub], Modbus, AT-Commands*
 <br />
 **"MOLOS security - secure data transfer "**
@@ -67,7 +67,7 @@ I was a pioneer in development of contentenerized applications used for acquisit
 Multithreaded applications used for secure data transfer and processes monitoring.
   * Dispatcher - multithreading, stable, configurable via SSL-TCP connection (also by GUI!) process monitoring
   * Sink - multithreading, multiclient, TCP Server, used for sending messages to PostgreSQL <br />
-<br />
+
 *Skills: Python, Threading, TCP-Client-Server, PostgreSQL, Azure Cloud*
 <br />
 **"Adaptive Machine Vision"**
