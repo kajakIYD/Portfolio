@@ -12,6 +12,7 @@ Below You can see listing of a couple of projects I did by myself or was involve
   * **Topic**
   * **Articles**
 * **AI projects - hobby**
+* **Open Source Contributions**
 * **GameDev - RPG: GemPrisoners(Box2D + SFML)**
 * **Pottery Factory BeagleBone version**
 * **Pottery Factory EVK1100 + freeRTOS version**
@@ -171,6 +172,11 @@ Documentation available as *.pdf* file.
 <br />
 *Skills: AutoCAD*
 
+## PhD
+**Topic** </br>
+Predicting failure of industrial devices using vibrodiagnostics using artificial intelligence </br>
+**Publications**</br>
+
 ## AI projects - hobby
 **AI classification**
 <br />
@@ -217,6 +223,10 @@ Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
 Software useful for supermarkets, because it indicates where to place products in shops (ex. mustard nearby sausage ;))
 Available on GitHub. https://github.com/kajakIYD/Association-Rules
 <br />
+
+## Open Source Contributions
+See my Issue at IoT Edge: https://github.com/Azure/iotedge/issues/1815 </br>
+Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63
 
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
 Project developed with @kreeaq and @PiotrBatko
