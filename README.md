@@ -176,6 +176,7 @@ Documentation available as *.pdf* file.
 **Topic** </br>
 Predicting failure of industrial devices using vibrodiagnostics using artificial intelligence </br>
 **Publications**</br>
+State of art in predictive maintenance with use of digital signalprocessing</br>
 
 ## AI projects - hobby
 **AI classification**
