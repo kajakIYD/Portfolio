@@ -189,6 +189,18 @@ https://github.com/kajakIYD/AI-Classification
 Is it worth to buy Apple stock right now?
 Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
 <br />
+**Wine classification**
+<br />
+How good is wine based on several phisycal-measurable factors?
+https://github.com/kajakIYD/Wine-classification
+Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+<br />
+**"Energy efficiency prediction"**
+<br />
+What is the efficiency of a building based on its shape, surface area, roof area...
+Available on GitHub. https://github.com/kajakIYD/Energy-efficiency-regression
+Dataset: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency#
+<br />
 **System-Identification-ANN**
 <br />
 My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
