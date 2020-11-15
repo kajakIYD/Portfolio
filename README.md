@@ -68,6 +68,9 @@ I was a pioneer in development of contentenerized applications used for acquisit
 Multithreaded applications used for secure data transfer and processes monitoring.
   * Dispatcher - multithreading, stable, configurable via SSL-TCP connection (also by GUI!) process monitoring
   * Sink - multithreading, multiclient, TCP Server, used for sending messages to PostgreSQL <br />
+  * EventSender - multithreading, multiclient, TCP Server, directory monitor, used for sending alarms and critical events to PostgreSQL/SCADA systems/AzureCloud <br />
+  * ChannelMonitor - multithreading, multiclient, TCP Server, used for serving data to Zabbix (a'la Graphana, but less common :)) <br />
+  * ModbusSink - multithreading, multiclient, TCP Server, used for aggregation data from many Modbus Slaves and serving as single ModbusSlave <br />
 
 *Skills: Python, Threading, TCP-Client-Server, PostgreSQL, Azure Cloud*
 <br />
