@@ -72,7 +72,7 @@ Multithreaded applications used for secure data transfer and processes monitorin
   * ChannelMonitor - multithreading, multiclient, TCP Server, used for serving data to Zabbix (a'la Graphana, but less common :)) <br />
   * ModbusSink - multithreading, multiclient, TCP Server, used for aggregation data from many Modbus Slaves and serving as single ModbusSlave <br />
 
-*Skills: Python, Threading, TCP-Client-Server, PostgreSQL, Azure Cloud*
+*Skills: Python, Threading, TCP-Client-Server, PostgreSQL, Azure Cloud, Process management in Linux/Windows, pyModbus*
 <br />
 **"Adaptive Machine Vision"**
 <br />
