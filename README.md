@@ -32,14 +32,14 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 <br />
 Aim of a project was to estimate Remaining Useful Life (RUL) of each of pump system with usage of vibration- and temperature data. Using several models trained with GridSearch combined with curve fitting - finally VotingRegression (ensemble learning) was applied.
 <br />
-*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
 <br />
 
 **Train predictive maintenance**
 <br />
 Goal of a project was to estimate Remaining Useful Life (RUL) of each subsystem (hydraulic, pressure, running-subsystem...) on a train. It was regression task with a bit of anomaly detection. Several modelling techniques were involved - LinearRegression, LogisticRegression, curve fitting ensemble learning (VotingReggressor).
 <br />
-*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
 <br />
 
 **Events prediction**
