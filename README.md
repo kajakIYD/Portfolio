@@ -37,7 +37,7 @@ Aim of a project was to estimate Remaining Useful Life (RUL) of each of pump sys
 
 **Train predictive maintenance**
 <br />
-Goal of a project was to estimate Remaining Useful Life (RUL) of each subsystem (hydraulic, pressure, running-subsystem...) on a train. It was regression task with a bit of anomaly detection - several modelling techniques were involved - LinearRegression, LogisticRegression, CurveFitting ensemble Learning (VotingReggressors).
+Goal of a project was to estimate Remaining Useful Life (RUL) of each subsystem (hydraulic, pressure, running-subsystem...) on a train. It was regression task with a bit of anomaly detection. Several modelling techniques were involved - LinearRegression, LogisticRegression, curve fitting ensemble learning (VotingReggressor).
 <br />
 *Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
 <br />
