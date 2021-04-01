@@ -28,6 +28,20 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 
 ## Commercial projects
 ### AI projects
+**Water pumps predictive maintenance**
+<br />
+Aim of a project was to estimate Remaining Useful Life (RUL) of each of pump system with usage of vibration- and temperature data. Using several models trained with GridSearch combined with curve fitting - finally VotingRegression (ensemble learning) was applied.
+<br />
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+<br />
+
+**Train predictive maintenance**
+<br />
+Goal of a project was to estimate Remaining Useful Life (RUL) of each subsystem (hydraulic, pressure, running-subsystem...) on a train. It was regression task with a bit of anomaly detection - several modelling techniques were involved - LinearRegression, LogisticRegression, CurveFitting ensemble Learning (VotingReggressors).
+<br />
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+<br />
+
 **Events prediction**
 <br />
 Several techniques used for prediction of events that came into centralized alarm system implemented on production hall.
