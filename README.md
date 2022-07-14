@@ -4,7 +4,7 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
 
-* **Commercial AI projects**
+* **Commercial AI projects - 5+ years of experience, 7+ projects**
   * **Brain tumour population modelling**
   * **Predictive maintenance**
   * **Anomaly detection**
