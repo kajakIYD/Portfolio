@@ -4,45 +4,39 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
 
-* **Commercial projects**
-  * **AI projects**
-  * **IT projects**
-  * **Projects for automotive**
+* **Commercial AI projects**
+  * **Brain tumour population modelling**
+  * **Predictive maintenance**
+  * **Anomaly detection**
 * **PhD**
   * **Topic**
   * **Articles**
+  * **Conferences**
 * **AI projects - hobby**
 * **Open Source Contributions**
-* **GameDev - RPG: GemPrisoners(Box2D + SFML)**
-* **Pottery Factory BeagleBone version**
-* **Pottery Factory EVK1100 + freeRTOS version**
-* **Expert System**
-* **Speech Template Recognition System**
-* **SmartRoom web version**
-* **SmartRoom LabVIEW version**
-* **Projects for automotive**
-* **Project with association with Institute of Automatic Control of Silesian University of Technology**
-* **Private lessons for students: physics, mathematics, mechanics**
+* **Other commercial projects**
+  * **IT projects**
+  * **Projects for automotive**
+* **Other hobby projects**
+* GameDev
+* IoT
+  * GameDev - RPG: GemPrisoners(Box2D + SFML)
+  * Pottery Factory BeagleBone version
+  * Pottery Factory EVK1100 + freeRTOS version
+  * SmartRoom web version
+  * SmartRoom LabVIEW version
+* Private lessons for students: physics, mathematics, mechanics
 
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
 ## Commercial projects
 ### AI projects
-**Water pumps predictive maintenance**
+**Brain tumour population modelling - Project with association with Institute of Automatic Control of Silesian University of Technology**
 <br />
-Aim of a project was to estimate Remaining Useful Life (RUL) of each of pump system with usage of vibration- and temperature data. Using several models trained with GridSearch combined with curve fitting - finally VotingRegression (ensemble learning) was applied.
-<br />
-*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+*Skills: Python, Deep learning (Autoencoders), Machine Learning, MATLAB, mathematical modeling*
 <br />
 
-**Train predictive maintenance**
-<br />
-Goal of a project was to estimate Remaining Useful Life (RUL) of each subsystem (hydraulic, pressure, running-subsystem...) on a train. It was regression task with a bit of anomaly detection. Several modelling techniques were involved - LinearRegression, LogisticRegression, curve fitting ensemble learning (VotingReggressor).
-<br />
-*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
-<br />
-
-**Events prediction**
+**Manufacturing events prediction**
 <br />
 Several techniques used for prediction of events that came into centralized alarm system implemented on production hall.
 <br />
@@ -62,12 +56,122 @@ Because of lack of data during training and model deployment StratifiedKFold cro
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning, Jupyter Notebook*
 <br />
 
+**Water pumps predictive maintenance**
+<br />
+Aim of a project was to estimate Remaining Useful Life (RUL) of each of pump system with usage of vibration- and temperature data. Using several models trained with GridSearch combined with curve fitting - finally VotingRegression (ensemble learning) was applied.
+<br />
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+<br />
+
+**Train predictive maintenance**
+<br />
+Goal of a project was to estimate Remaining Useful Life (RUL) of each subsystem (hydraulic, pressure, running-subsystem...) on a train. It was regression task with a bit of anomaly detection. Several modelling techniques were involved - LinearRegression, LogisticRegression, curve fitting ensemble learning (VotingReggressor).
+<br />
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+<br />
+
+**Predictive maintenance for industrial fans**
+<br />
+With the use of vibration data Remaining Useful Life (RUL) with precisely described fault should have been calculated. Both cloud and on-premise analysis was performed.
+<br />
+*Skills: AzureML, Python, pandas, scikit-learn, Tensorflow, numpy, Data Science, Machine Learning, Deep Learning, Jupyter Notebook (AzureNotebooks)*
+<br />
+
 **High pressure aggregate anomaly detection**
 <br />
 Real-time analysis with the usage of measurements of several factors that described the aggregate
 <br />
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning*
 <br />
+
+## PhD
+**Topic** </br>
+Predicting failure of industrial devices using vibrodiagnostics using artificial intelligence </br>
+* **Publications**</br>
+    * State of art in predictive maintenance with use of digital signal processing</br>
+    * Anomaly detection for Hydraulic Power Units - case study</br>
+    * Predictive maintenance for trains - case study</br>
+**Conferences**</br>
+    * POB5.T3 - digitization & IT: DIGITAL TRANSFORMATION OF A BATCH MANUFACTURING PLANT
+    * NWDPN XI:
+        * Summary of vibrodiagnostic indicators of industrial equipment for the implementation of Predictive Maintenance systems
+        * Predicting industrial equipment failures based on vibrodiagnostic analysis using artificial intelligence
+        * Microsoft Azure capabilities in the context of deploying machine learning models on edge devices.
+
+## AI projects - hobby
+**AI classification**
+<br />
+Kaggle "Sick or well heart disease" classification challenge.
+https://github.com/kajakIYD/AI-Classification
+<br />
+**"StockPricesPrediction"**
+<br />
+Is it worth to buy Apple stock right now?
+Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
+<br />
+**Wine classification**
+<br />
+How good is wine based on several phisycal-measurable factors?
+https://github.com/kajakIYD/Wine-classification
+Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+<br />
+**"Energy efficiency prediction"**
+<br />
+What is the efficiency of a building based on its shape, surface area, roof area...
+Available on GitHub. https://github.com/kajakIYD/Energy-efficiency-regression
+Dataset: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency#
+<br />
+**"Expert System"**
+<br />
+Git repository: https://github.com/kreeaq/Expert-System <br />
+*Skills: C#, WPF, Horn clauses*
+<br />
+**"Speech Template Recognition System"**
+<br />
+Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
+*Skills: Python, C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
+<br />
+**System-Identification-ANN**
+<br />
+My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
+https://github.com/kajakIYD/system-identification-ann
+<br />
+**SPAM or HAM?**
+<br />
+Famous kaggle mail-classification challenge.
+Available on GitHub. https://github.com/kajakIYD/SPAM-or-HAM
+<br />
+**"GenderClassifier"**
+<br />
+Classification used
+Available on GitHub. https://github.com/kajakIYD/GenderClassifier
+<br />
+**"RecommendationSystem"**
+<br />
+Would You like "Lord Of The Rings" if You like "Troy"?
+Available on GitHub. https://github.com/kajakIYD/Recommendation-System
+<br />
+**"TwitterSentimentAnalysis"**
+<br />
+Answering the question: was the Tweet gentle or violent using Twitter and NLTK.
+Available on GitHub. Work in progress.
+<br />
+**"Grouping-Algorithms"**
+<br />
+Clusterization on students grades performed and compared in 4-ways.
+Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
+<br />
+**"Association-Rules"**
+<br />
+Software useful for supermarkets, because it indicates where to place products in shops (ex. mustard nearby sausage ;))
+Available on GitHub. https://github.com/kajakIYD/Association-Rules
+<br />
+
+## Open Source Contributions
+See my Issue at IoT Edge: https://github.com/Azure/iotedge/issues/1815 </br>
+Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63
+
+## Other commercial projects 
 ### IT projects
 **"MOLOS IoT - real-time machines monitoring"**
 <br />
@@ -188,76 +292,6 @@ Documentation available as *.pdf* file.
 **Factory layout update**
 <br />
 *Skills: AutoCAD*
-
-## PhD
-**Topic** </br>
-Predicting failure of industrial devices using vibrodiagnostics using artificial intelligence </br>
-**Publications**</br>
-State of art in predictive maintenance with use of digital signal processing</br>
-
-## AI projects - hobby
-**AI classification**
-<br />
-Kaggle "Sick or well heart disease" classification challenge.
-https://github.com/kajakIYD/AI-Classification
-<br />
-**"StockPricesPrediction"**
-<br />
-Is it worth to buy Apple stock right now?
-Available on GitHub. https://github.com/kajakIYD/Stock-Prices-Predictions
-<br />
-**Wine classification**
-<br />
-How good is wine based on several phisycal-measurable factors?
-https://github.com/kajakIYD/Wine-classification
-Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
-<br />
-**"Energy efficiency prediction"**
-<br />
-What is the efficiency of a building based on its shape, surface area, roof area...
-Available on GitHub. https://github.com/kajakIYD/Energy-efficiency-regression
-Dataset: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency#
-<br />
-**System-Identification-ANN**
-<br />
-My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
-https://github.com/kajakIYD/system-identification-ann
-<br />
-**SPAM or HAM?**
-<br />
-Famous kaggle mail-classification challenge.
-Available on GitHub. https://github.com/kajakIYD/SPAM-or-HAM
-<br />
-**"GenderClassifier"**
-<br />
-Classification used
-Available on GitHub. https://github.com/kajakIYD/GenderClassifier
-<br />
-**"RecommendationSystem"**
-<br />
-Would You like "Lord Of The Rings" if You like "Troy"?
-Available on GitHub. https://github.com/kajakIYD/Recommendation-System
-<br />
-**"TwitterSentimentAnalysis"**
-<br />
-Answering the question: was the Tweet gentle or violent using Twitter and NLTK.
-Available on GitHub. Work in progress.
-<br />
-**"Grouping-Algorithms"**
-<br />
-Clusterization on students grades performed and compared in 4-ways.
-Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
-<br />
-**"Association-Rules"**
-<br />
-Software useful for supermarkets, because it indicates where to place products in shops (ex. mustard nearby sausage ;))
-Available on GitHub. https://github.com/kajakIYD/Association-Rules
-<br />
-
-## Open Source Contributions
-See my Issue at IoT Edge: https://github.com/Azure/iotedge/issues/1815 </br>
-Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63
-
 ## GameDev - RPG: GemPrisoners(Box2D + SFML)
 Project developed with @kreeaq and @PiotrBatko
 More details at:
@@ -272,14 +306,6 @@ Documentation available soon as *.pdf* file. Git repository: Pottery-Factory.
 Documentation available as *.pdf* file. Git repository: https://github.com/kreeaq/avr_RTOS
 *Skills: C, C++, QtCreator, freeRTOS, electronics*
 
-## Expert System
-Git repository: https://github.com/kreeaq/Expert-System <br />
-*Skills: C#, WPF, Horn clauses*
-
-## Speech Template Recognition System
-Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
-*Skills: Python, C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
-
 ## SmartRoom web version 
 Documentation available as *.pdf* file.  
 *Skills: C, C#, PHP, Joomla*
@@ -287,9 +313,3 @@ Documentation available as *.pdf* file.
 ## SmartRoom LabVIEW version
 Documentation available as *.pdf* file.  
 *Skills: LabVIEW (CLAD certificate), C*
-
-## Project with association with Institute of Automatic Control of Silesian University of Technology
-**Brain tumour population modeling**
-<br />
-*Skills: Python, Deep learning (Autoencoders), Machine Learning, MATLAB, mathematical modeling*
-<br />
