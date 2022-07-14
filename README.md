@@ -91,12 +91,12 @@ Predicting failure of industrial devices using vibrodiagnostics using artificial
     * State of art in predictive maintenance with use of digital signal processing</br>
     * Anomaly detection for Hydraulic Power Units - case study</br>
     * Predictive maintenance for trains - case study</br>
-**Conferences**</br>
+* **Conferences**</br>
     * POB5.T3 - digitization & IT: DIGITAL TRANSFORMATION OF A BATCH MANUFACTURING PLANT
     * NWDPN XI:
-        * Summary of vibrodiagnostic indicators of industrial equipment for the implementation of Predictive Maintenance systems
-        * Predicting industrial equipment failures based on vibrodiagnostic analysis using artificial intelligence
-        * Microsoft Azure capabilities in the context of deploying machine learning models on edge devices.
+      * Summary of vibrodiagnostic indicators of industrial equipment for the implementation of Predictive Maintenance systems
+      * Predicting industrial equipment failures based on vibrodiagnostic analysis using artificial intelligence
+      * Microsoft Azure capabilities in the context of deploying machine learning models on edge devices.
 
 ## AI projects - hobby
 **AI classification**
