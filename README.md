@@ -177,7 +177,8 @@ https://github.com/kajakIYD/Bayes_Theorem | https://github.com/kajakIYD/Binomial
 <br />
 ## Open Source Contributions
 See my Issue at IoT Edge: https://github.com/Azure/iotedge/issues/1815 </br>
-Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63
+Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63 </br>
+Issue at VSCode/Anaconda: https://github.com/microsoft/vscode-python/issues/18436
 
 ## Other commercial projects 
 ### IT projects
