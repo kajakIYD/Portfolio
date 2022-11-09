@@ -170,7 +170,11 @@ Available on GitHub. https://github.com/kajakIYD/Grouping-Algorithms
 Software useful for supermarkets, because it indicates where to place products in shops (ex. mustard nearby sausage ;))
 Available on GitHub. https://github.com/kajakIYD/Association-Rules
 <br />
-
+**"Probability"**
+<br />
+Sandboxes for Bayes theorem and binomial distribution
+https://github.com/kajakIYD/Bayes_Theorem | https://github.com/kajakIYD/Binomial_distribution
+<br />
 ## Open Source Contributions
 See my Issue at IoT Edge: https://github.com/Azure/iotedge/issues/1815 </br>
 Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63
