@@ -89,8 +89,8 @@ Real-time analysis with the usage of measurements of several factors that descri
 **Topic** </br>
 Predicting failure of industrial devices using vibrodiagnostics using artificial intelligence </br>
 **Algorithm ©** </br>
-**CoRAL** - **Co**nvolutional neural network -> **R**ecurrent neural network -> **AL**gorithm </br>
-Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to 2D -> track how extracted features move on a plane -> put features on RNN -> visualize to client
+**SCFCTfRUL** - **S**pectrogram -> **C**NN -> **F**latten -> **C**ompress -> **T**rajectory -> **f**or **RUL** </br>
+Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to 2D -> track how extracted features move on a plane -> put confidence vector from CNN as output for MLP regression -> create trajectory of working point on 2D plane -> calculate Remaining Useful Life-> visualize to client
 * **Publications**</br>
     * State of art in predictive maintenance with use of digital signal processing</br>
     * Anomaly detection for Hydraulic Power Units - case study</br>
