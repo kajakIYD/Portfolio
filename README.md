@@ -2,7 +2,7 @@ Portfolio
 ========
 ## *Portfolio of my projects*
 
-Below You can see listing of a couple of projects I did by myself or was involved into during both my studies at Silesian University Of Technology and commercial work:
+Below You can see listing of a couple of projects I did by myself or was involved into during commercial work, my studies at Silesian University Of Technology and hobby projects:
 
 * **Commercial AI projects - 5+ years of experience, 7+ projects**
   * **Brain tumour population modelling**
@@ -96,7 +96,7 @@ Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to
     * Anomaly detection for Hydraulic Power Units - case study</br>
     * Predictive maintenance for trains - case study</br>
 * **Conferences**</br>
-    * POB5.T3 - digitization & IT: DIGITAL TRANSFORMATION OF A BATCH MANUFACTURING PLANT
+    * POB5.T3 - digitization & IT: Digital transformation of a batch manufacturing plant
     * NWDPN XI:
       * Summary of vibrodiagnostic indicators of industrial equipment for the implementation of Predictive Maintenance systems
       * Predicting industrial equipment failures based on vibrodiagnostic analysis using artificial intelligence
