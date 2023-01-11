@@ -185,6 +185,11 @@ https://github.com/kajakIYD/Taylor-series
 Several ML and data analysis algorithms from scratch
 https://github.com/kajakIYD/data-science-from-scratch
 <br />
+**Timeseries analysis**
+<br />
+GRU/LSTM, RNN, MLP, SARIMA...
+https://github.com/kajakIYD/sequences
+<br />
 ## Open Source Contributions
 See my Issue at IoT Edge: https://github.com/Azure/iotedge/issues/1815 </br>
 Commit & PR at IoT Edge: https://github.com/Azure/iotedge/pull/2681 https://github.com/Azure/iotedge/pull/2681/commits/1ca932094f6164df5c9f578555fa3154191f8f63 </br>
