@@ -22,6 +22,7 @@ Below You can see listing of a couple of projects I did by myself or was involve
 * GameDev
 * IoT
   * GameDev - RPG: GemPrisoners(Box2D + SFML)
+  * Raspberry Pi - Computer Vision, NLP, Speech recognition...
   * Pottery Factory BeagleBone version
   * Pottery Factory EVK1100 + freeRTOS version
   * SmartRoom web version
