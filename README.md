@@ -104,6 +104,16 @@ Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to
       * Microsoft Azure capabilities in the context of deploying machine learning models on edge devices.
 
 ## AI projects - hobby
+**"Speech Template Recognition System"**
+<br />
+Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
+*Skills: Python, C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
+<br />
+**System-Identification-ANN**
+<br />
+My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
+https://github.com/kajakIYD/system-identification-ann
+<br />
 **AI classification**
 <br />
 Kaggle "Sick or well heart disease" classification challenge.
@@ -130,16 +140,6 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency#
 <br />
 Git repository: https://github.com/kreeaq/Expert-System <br />
 *Skills: C#, WPF, Horn clauses*
-<br />
-**"Speech Template Recognition System"**
-<br />
-Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
-*Skills: Python, C++, Digital Signal Processing, RaspberryPi, Deep Learning, QtCreator, Qt libraries*
-<br />
-**System-Identification-ANN**
-<br />
-My master thesis, complex analysis of dynamic system identification using Recurrent Neural Networks (RNN) and its variations (LSTM, GRU)
-https://github.com/kajakIYD/system-identification-ann
 <br />
 **SPAM or HAM?**
 <br />
