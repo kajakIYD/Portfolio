@@ -96,6 +96,7 @@ Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to
     * State of art in predictive maintenance with use of digital signal processing</br>
     * Anomaly detection for Hydraulic Power Units - case study</br>
     * Predictive maintenance for trains - case study</br>
+    * Vibration velocity prediction with regression and forecasting techniques for axial piston pump</br>
 * **Conferences**</br>
     * POB5.T3 - digitization & IT: Digital transformation of a batch manufacturing plant
     * NWDPN XI:
