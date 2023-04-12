@@ -98,6 +98,9 @@ Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to
     * Predictive maintenance for trains - case study</br>
     * Vibration velocity prediction with regression and forecasting techniques for axial piston pump</br>
 * **Conferences**</br>
+    * DSS 2021 ML Edition:
+      * How to handle big HPU so as not to spoil it? Predictive maintenance for HPU
+      * Stop, we are loosing the wheel! Predictive maintenance for trains
     * POB5.T3 - digitization & IT: Digital transformation of a batch manufacturing plant
     * NWDPN XI:
       * Summary of vibrodiagnostic indicators of industrial equipment for the implementation of Predictive Maintenance systems
