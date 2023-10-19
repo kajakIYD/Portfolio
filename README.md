@@ -5,6 +5,7 @@ Portfolio
 Below You can see listing of a couple of projects I did by myself or was involved into during commercial work, my studies at Silesian University Of Technology and hobby projects:
 
 * **Commercial AI projects - 5+ years of experience, 7+ projects**
+  * **Autonomous driving**
   * **Brain tumour population modelling**
   * **Predictive maintenance**
   * **Anomaly detection**
@@ -33,6 +34,11 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 
 ## Commercial projects
 ### AI projects
+**Autonomous driving**
+<br />
+*Skills: Computer Vision, Python, Pytorch, Tensorflow, OpenCV, Deep learning, Machine Learning*
+<br />
+
 **Brain tumour population modelling - Project with association with Institute of Automatic Control of Silesian University of Technology**
 <br />
 *Skills: Python, Deep learning (Autoencoders), Machine Learning, MATLAB, mathematical modeling*
@@ -93,8 +99,8 @@ Predicting failure of industrial devices using vibrodiagnostics using artificial
 **SCFCTfRUL** - **S**pectrogram -> **C**NN -> **F**latten -> **C**ompress -> **T**rajectory -> **f**or **RUL** </br>
 Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to 2D -> track how extracted features move on a plane -> put confidence vector from CNN as output for MLP regression -> create trajectory of working point on 2D plane -> calculate Remaining Useful Life-> visualize to client
 * **Publications**</br>
-    * State of art in predictive maintenance with use of digital signal processing</br>
-    * Anomaly detection for Hydraulic Power Units - case study</br>
+    * Anomaly detection for Hydraulic Power Units - case study ->  DOI: [https://doi.org/10.3390/fi15060206](https://doi.org/10.3390/fi15060206)</br>
+    * State of art in predictive maintenance with use of digital signal processing </br>
     * Predictive maintenance for trains - case study</br>
     * Vibration velocity prediction with regression and forecasting techniques for axial piston pump</br>
 * **Conferences**</br>
