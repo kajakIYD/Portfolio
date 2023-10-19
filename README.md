@@ -4,7 +4,7 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during commercial work, my studies at Silesian University Of Technology and hobby projects:
 
-* **Commercial AI projects - 5+ years of experience, 7+ projects**
+* **Commercial AI projects - 6+ years of experience, 8+ projects**
   * **Autonomous driving**
   * **Brain tumour population modelling**
   * **Predictive maintenance**
