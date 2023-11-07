@@ -102,7 +102,7 @@ Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to
     * Anomaly detection for Hydraulic Power Units - case study ->  DOI: [https://doi.org/10.3390/fi15060206](https://doi.org/10.3390/fi15060206)</br>
     * State of art in predictive maintenance with use of digital signal processing </br>
     * Predictive maintenance for trains - case study</br>
-    * Vibration velocity prediction with regression and forecasting techniques for axial piston pump</br>
+    * Vibration velocity prediction with regression and forecasting techniques for axial piston pump -> DOI: [https://doi.org/10.3390/app132111636](https://doi.org/10.3390/app132111636)</br>
 * **Conferences**</br>
     * DSS 2021 ML Edition:
       * How to handle big HPU so as not to spoil it? Predictive maintenance for HPU
