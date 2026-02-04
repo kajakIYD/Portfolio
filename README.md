@@ -4,7 +4,7 @@ Portfolio
 
 Below You can see listing of a couple of projects I did by myself or was involved into during commercial work, my studies at Silesian University Of Technology and hobby projects:
 
-* **Commercial AI projects - 6+ years of experience, 8+ projects**
+* **Commercial AI projects - 10+ years of experience, 10+ projects**
   * **Autonomous driving**
   * **Brain tumour population modelling**
   * **Predictive maintenance**
@@ -20,15 +20,9 @@ Below You can see listing of a couple of projects I did by myself or was involve
   * **IT projects**
   * **Projects for automotive**
 * **Other hobby projects**
-* GameDev
-* IoT
+  * IoT (AI + RaspberryPi and more)
   * GameDev - RPG: GemPrisoners(Box2D + SFML)
-  * Raspberry Pi - Computer Vision, NLP, Speech recognition...
-  * Pottery Factory BeagleBone version
-  * Pottery Factory EVK1100 + freeRTOS version
-  * SmartRoom web version
-  * SmartRoom LabVIEW version
-* Private lessons for students: physics, mathematics, mechanics
+  * Private lessons for students: physics, mathematics, mechanics
 
 Documentation of some projects is available on my GitHub repository as *.pdf* files. You can simply download them or read on GitHub.
 
@@ -36,7 +30,11 @@ Documentation of some projects is available on my GitHub repository as *.pdf* fi
 ### AI projects
 **Autonomous driving**
 <br />
-*Skills: Computer Vision, Python, Pytorch, Tensorflow, OpenCV, Deep learning, Machine Learning*
+Traffic signs and traffic lights detection. I was inventor of Signet - . Smart pre- and post-processing involved to chase contractor solution with limited data availability and poorer data quality.
+<br />
+Scene understanding to find specific scenarios (ODD), or cluster them, to smartly handle ego-traffic light relevancy assignment.
+<br />
+*Skills: Computer Vision, Python, Pytorch, RAG, LLM, VQA, Tensorflow, OpenCV, Deep learning, Machine Learning*
 <br />
 
 **Brain tumour population modelling - Project with association with Institute of Automatic Control of Silesian University of Technology**
@@ -114,6 +112,27 @@ Pick a spectrogram -> put it on CNN -> take flatten layer outputs -> compress to
       * Microsoft Azure capabilities in the context of deploying machine learning models on edge devices.
 
 ## AI projects - hobby
+**"LangChain sandbox"**
+<br />
+Git repository: langchain-sandbox https://github.com/kajakIYD/langchain-sandbox <br />
+*Skills: Python, GCP (VertexAI), LLM, Vector DB, Prompt engineering*
+<br />
+**"Tempdrop reminder"**
+<br />
+Git repository: tempdrop_flutter_app https://github.com/kajakIYD/tempdrop_flutter_app <br />
+*Skills: Python, GCP (VertexAI), LLM, Prompt engineering*
+<br />
+**"KotekPsotek"**
+<br />
+AI based strategy determination to optimize outcome of collaborative boardgame for children
+Git repository: KotekPsotek https://github.com/kajakIYD/KotekPsotek <br />
+*Skills: Python, LLM*
+**"TrzySwinki"**
+<br />
+Detailed math-oriented analysis of boardgame for children
+Git repository: TrzySwinki https://github.com/kajakIYD/TrzySwinki <br />
+*Skills: Python, Combinatorics*
+<br />
 **"Speech Template Recognition System"**
 <br />
 Git repository: Speech-Template-Recognition-System https://github.com/kajakIYD/Speech-Template-Recognition-System <br />
