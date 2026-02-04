@@ -2,7 +2,7 @@ Portfolio
 ========
 ## *Portfolio of my projects*
 
-Below You can see listing of a couple of projects I did by myself or was involved into during commercial work, PhD and my studies at Silesian University Of Technology and hobby projects:
+Below You can see listing of a couple of projects I did by myself or was involved into during commercial work, PhD, my studies at Silesian University Of Technology and hobby projects:
 
 * **Commercial AI projects - 10+ years of experience, 10+ projects**
   * **Autonomous driving**
