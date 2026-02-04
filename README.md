@@ -9,7 +9,7 @@ Below You can see listing of a couple of projects I did by myself or was involve
   * **Brain tumour population modelling**
   * **Predictive maintenance**
   * **Anomaly detection**
-* **PhD**
+* **PhD ([ORCID](https://orcid.org/0000-0001-6998-5731))**
   * **Topic**
   * **Algorithm ©**
   * **Articles**
@@ -90,7 +90,7 @@ Real-time analysis with the usage of measurements of several factors that descri
 *Skills: Python, scikit-learn, Tensorflow, Microsoft Azure, Data Science, Machine Learning, Deep Learning*
 <br />
 
-## PhD
+## PhD ([ORCID](https://orcid.org/0000-0001-6998-5731))**
 **Topic** </br>
 Predicting failure of industrial devices using vibrodiagnostics using artificial intelligence </br>
 **Algorithm ©** </br>
